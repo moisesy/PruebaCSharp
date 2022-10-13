@@ -1,0 +1,17 @@
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.BLL\bin\Debug\net6.0\PruebaHumanBrands.BLL.deps.json
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.BLL\bin\Debug\net6.0\PruebaHumanBrands.BLL.dll
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.BLL\bin\Debug\net6.0\PruebaHumanBrands.BLL.pdb
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.BLL\bin\Debug\net6.0\PruebaHumanBrands.DAL.dll
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.BLL\bin\Debug\net6.0\PruebaHumanBrands.MOD.dll
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.BLL\bin\Debug\net6.0\PruebaHumanBrands.DAL.pdb
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.BLL\bin\Debug\net6.0\PruebaHumanBrands.MOD.pdb
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.BLL\obj\Debug\net6.0\PruebaHumanBrands.BLL.csproj.AssemblyReference.cache
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.BLL\obj\Debug\net6.0\PruebaHumanBrands.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.BLL\obj\Debug\net6.0\PruebaHumanBrands.BLL.AssemblyInfoInputs.cache
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.BLL\obj\Debug\net6.0\PruebaHumanBrands.BLL.AssemblyInfo.cs
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.BLL\obj\Debug\net6.0\PruebaHumanBrands.BLL.csproj.CoreCompileInputs.cache
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.BLL\obj\Debug\net6.0\PruebaHumanBrands.BLL.csproj.CopyComplete
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.BLL\obj\Debug\net6.0\PruebaHumanBrands.BLL.dll
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.BLL\obj\Debug\net6.0\refint\PruebaHumanBrands.BLL.dll
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.BLL\obj\Debug\net6.0\PruebaHumanBrands.BLL.pdb
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.BLL\obj\Debug\net6.0\ref\PruebaHumanBrands.BLL.dll
