@@ -1,0 +1,15 @@
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.DAL\bin\Debug\net6.0\PruebaHumanBrands.DAL.deps.json
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.DAL\bin\Debug\net6.0\PruebaHumanBrands.DAL.dll
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.DAL\bin\Debug\net6.0\PruebaHumanBrands.DAL.pdb
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.DAL\bin\Debug\net6.0\PruebaHumanBrands.MOD.dll
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.DAL\bin\Debug\net6.0\PruebaHumanBrands.MOD.pdb
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.DAL\obj\Debug\net6.0\PruebaHumanBrands.DAL.csproj.AssemblyReference.cache
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.DAL\obj\Debug\net6.0\PruebaHumanBrands.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.DAL\obj\Debug\net6.0\PruebaHumanBrands.DAL.AssemblyInfoInputs.cache
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.DAL\obj\Debug\net6.0\PruebaHumanBrands.DAL.AssemblyInfo.cs
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.DAL\obj\Debug\net6.0\PruebaHumanBrands.DAL.csproj.CoreCompileInputs.cache
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.DAL\obj\Debug\net6.0\PruebaHumanBrands.DAL.csproj.CopyComplete
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.DAL\obj\Debug\net6.0\PruebaHumanBrands.DAL.dll
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.DAL\obj\Debug\net6.0\refint\PruebaHumanBrands.DAL.dll
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.DAL\obj\Debug\net6.0\PruebaHumanBrands.DAL.pdb
+C:\Users\msyo\source\repos\PruebaHumanBrands\PruebaHumanBrands.DAL\obj\Debug\net6.0\ref\PruebaHumanBrands.DAL.dll
